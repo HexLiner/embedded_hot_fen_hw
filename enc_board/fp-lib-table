@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "myLibrary")(type "KiCad")(uri "C:/Users/Gurage/Documents/my_proj/hot_fen/HW/hot_fen_led_board/myLibrary.pretty")(options "")(descr ""))
+)
